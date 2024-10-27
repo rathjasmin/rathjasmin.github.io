@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my website!** 
+Welcome!
+======
 
 My name is Jasmin Rath. I am a Doctoral Researcher at the [Cologne Center for Comparative Politics](https://cccp.uni-koeln.de/en/) at the University of Cologne, Germany. 
 
