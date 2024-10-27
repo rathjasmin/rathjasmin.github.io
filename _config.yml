@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "pictureJR.jpeg"
   name             : "Jasmin Rath"
-  pronouns         : "she/her"  
-  bio              : "<b> Political Scientist <b>"
+  pronouns         : # "she/her"  
+  bio              : "Political Scientist | she/her"
   location         : "Cologne, Germany"
   employer         : "University of Cologne"
   uri              : # URL
