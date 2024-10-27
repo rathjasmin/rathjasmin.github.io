@@ -17,12 +17,11 @@ My research focuses on political representation, political communication, and th
 I hold a M.Sc. degree in Political Science from the [University of Gothenburg](https://www.gu.se/en/political-science), Sweden as well as a M.A. degree in Politics and Public Administration from the [University of Konstanz](https://www.polver.uni-konstanz.de/en/), Germany.
 
 
-Work in progress 
-======
 
-<details open>
-<summary> <dt><strong>Offended or entertained? How emotions shape the consequences of elite incivility for
-political disenchantment</strong></dt>
+**Work in progress**
+
+<details open> <summary> <dt>Offended or entertained? How emotions shape the consequences of elite incivility for
+political disenchantment</dt>
 Rath, Jasmin <br />
 </summary>
 
