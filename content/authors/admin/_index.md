@@ -9,10 +9,6 @@ title: Jasmin Rath
 first_name: Jasmin
 last_name: Rath
 
-# Status emoji
-# status:
-  # icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -20,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Political Scientist | Doctoral Researcher 
+role: Doctoral Researcher 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -30,9 +26,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/envelope
+  - icon: hero/envelope
     url: 'mailto:jasmin.rath@wiso.uni-koeln.de'
-  - icon: custom/bluesky
+  - icon: brands/bluesky
     url: https://bsky.app/profile/jasminrath.bsky.social
   - icon: brands/github
     url: https://github.com/rathjasmin
@@ -64,11 +60,6 @@ education:
   - area: BA Politics and Public Administration, 2020
     institution: University of Konstanz
 
-
+---
 ## About Me
-
-Welcome to my website! I am a Doctoral Researcher in Political Science at the [University of Cologne, Germany](https://cccp.uni-koeln.de/en/). My research focuses on political representation, political communication, and how elite behavior shapes citizens' attitudes and preferences.
-
-In my dissertation, I examine elite rhetoric and its broader implications for representative democracy. My work employs a range of empirical methods, including survey experiments and computational text analysis.
-
-
+Welcome to my website! I am a Doctoral Researcher in Political Science at the University of Cologne, Germany. My research focuses on political representation, political communication, and how elite behavior shapes citizens' attitudes and preferences. In my dissertation, I examine elite rhetoric and its broader implications for representative democracy. My work employs a range of empirical methods, including survey experiments and computational text analysis.
