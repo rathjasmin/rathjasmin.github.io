@@ -25,3 +25,11 @@ main:
   - #name: Teaching
     #url: teaching/
     #weight: 40
+
+footer:
+  - name: Impressum
+    url: /impressum/
+    weight: 10
+  - name: Data privacy note
+    url: /dataprivacy/
+    weight: 20

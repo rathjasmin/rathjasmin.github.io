@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Personal website of Jasmin Rath – Political Scientist.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,11 +40,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jasmin Rath, based on Hugo Academic Blox Builder.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -57,4 +57,4 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true # Enable the privacy pack (GDPR)
