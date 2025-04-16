@@ -39,9 +39,10 @@ header:
 
 # Site footer
 footer:
+  enable: true
   show_powered_by: false
   copyright:
-    notice: '© {year} Jasmin Rath, based on Hugo Academic Blox Builder.'
+    notice: '© {year} Jasmin Rath.'
     license:
       enable: false
       allow_derivatives: false
