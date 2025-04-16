@@ -32,13 +32,14 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Jasmin Rath"
 
 # Site footer
 footer:
+  show_powered_by: false
   copyright:
     notice: '© {year} Jasmin Rath, based on Hugo Academic Blox Builder.'
     license:
