@@ -7,7 +7,7 @@
     <description>Jasmin Rath</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu13884395287945790283.png</url>
+      <url>http://localhost:1313/media/icon_hu6089561088706791163.png</url>
       <title>Jasmin Rath</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -278,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-691487325&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-183745926&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-691487325&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-183745926&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -63,3 +63,8 @@ education:
 ---
 ## About Me
 Welcome to my website! I am a Doctoral Researcher in Political Science at the University of Cologne, Germany. My research focuses on political representation, political communication, and how elite behavior shapes citizens' attitudes and preferences. In my dissertation, I examine elite rhetoric and its broader implications for representative democracy. My work employs a range of empirical methods, including survey experiments and computational text analysis.
+
+### Publications
+**Rath, Jasmin**; Hetzer, Lukas; Berz, Jan; Wurthmann, L. Constantin; & Wagner, Sarah (2026). Caught
+in the crossfire. Electoral spillover effects of accommodating the radical right. *Party Politics*, Online
+first. (https://doi.org/10.1177/13540688261494377)
